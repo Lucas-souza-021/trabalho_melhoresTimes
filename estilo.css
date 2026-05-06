@@ -1,5 +1,5 @@
 body {
-    background-image: url(pretum.jpg);
+    background-image: url(img/pretum.jpg);
     background-attachment: fixed;
     background-size: cover;
     h1{
@@ -45,4 +45,11 @@ body {
 }
 .meu-time{
     border: 3px solid white;
+}
+.meu-perfil{
+    border: 3px solid white;
+    img{
+        height: 400px;
+        margin-left: 20px;
+    }
 }
