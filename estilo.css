@@ -36,6 +36,9 @@ body {
     footer{
         color: aliceblue;
     }
+    a{
+        color: rgb(212, 226, 11);
+    }
 }
 .conteudo-principal{
     border: 3px solid white;
